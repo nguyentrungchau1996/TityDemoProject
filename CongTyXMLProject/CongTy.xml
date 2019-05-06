@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CongTy>
+  <NhanVien id="01">
+    <HoTen>Nguyen Trung Chau</HoTen>
+    <Tuoi>23</Tuoi>
+    <LoaiNV>Quan ly</LoaiNV>
+  </NhanVien>
+  <NhanVien id="02">
+    <HoTen>Nguyen Thi Thuy Trang</HoTen>
+    <Tuoi>23</Tuoi>
+    <LoaiNV>Quan ly</LoaiNV>
+  </NhanVien>
+  <NhanVien id="03">
+    <HoTen>Michael Jackson</HoTen>
+    <Tuoi>28</Tuoi>
+    <LoaiNV>Van phong</LoaiNV>
+  </NhanVien>
+</CongTy>

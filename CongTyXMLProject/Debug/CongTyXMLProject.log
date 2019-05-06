@@ -1,0 +1,4 @@
+﻿  CongTy.cpp
+c:\users\user\documents\visual studio 2015\projects\congtyxmlproject\congtyxmlproject\congty.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  CongTyXMLProject.vcxproj -> C:\Users\USER\documents\visual studio 2015\Projects\CongTyXMLProject\Debug\CongTyXMLProject.exe
+  CongTyXMLProject.vcxproj -> C:\Users\USER\documents\visual studio 2015\Projects\CongTyXMLProject\Debug\CongTyXMLProject.pdb (Full PDB)
